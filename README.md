@@ -109,9 +109,12 @@ An example can be found [here](src/Main.java).
 A Java Swing application using the library is [included](src/GUI.java) within the project.
 
 ### Screenshots
-
+## “FIRST-COME-FIRST-SERVE-ALGORITHM”
 <img src="images/01.png" width="350" alt="Screenshot 1"> <img src="images/02.png" width="350" alt="Screenshot 2">
+## “SHORTEST-JOB-FIRST-ALGORITHM” & “SHORTEST-REMAING-TIME-ALGORITHM”
 <img src="images/03.png" width="350" alt="Screenshot 3"> <img src="images/04.png" width="350" alt="Screenshot 4">
+## PRIORITY-NON-PREEMPTIVE-ALGORITHM” & PRIORITY-PREEMPTIVE-ALGORITHM”
 <img src="images/05.png" width="350" alt="Screenshot 5"> <img src="images/06.png" width="350" alt="Screenshot 6">
+## “ROUND-ROBIN-ALGORITHM”
 <img src="images/07.png" width="350" alt="Screenshot 7"> <img src="images/08.png" width="350" alt="Screenshot 8">
-<img src="images/09.png" width="350" alt="Screenshot 9">
+
